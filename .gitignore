@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
-ToDo
- @kakkunpakkun
- Unwatch 1
-  Star 0
- Fork 0 kakkunpakkun/hello-kotlin
- Code  Issues 0  Pull requests 0
- Boards  Burndown  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathhello-kotlin/.gitignore
-7d532b6  7 days ago
-@kakkunpakkun kakkunpakkun initial
-1 contributor
-RawBlameHistory     64 lines (41 sloc)  1.34 KB
 ### https://raw.github.com/github/gitignore/e662d21883ecfa868d585b9378841725018953e1/Java.gitignore
 
 *.class
@@ -34,7 +16,7 @@ hs_err_pid*
 
 ### https://raw.github.com/github/gitignore/e662d21883ecfa868d585b9378841725018953e1/Gradle.gitignore
 
-.gradle/*
+.gradle/
 /build/
 
 # Ignore Gradle GUI config
